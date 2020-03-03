@@ -1,4 +1,6 @@
-# lebedev_test_assignment
+Project with a test assignment for the following task https://github.com/gkshi/lebedev_testovoe
+
+Use `pug` for templating and `scss` with `CSS Modules` for styling
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
